@@ -38,7 +38,9 @@ with open('your-pdf-file-name.pdf', 'rb') as file:
 
 6. Set up the OpenAI API key as an environment variable in a .env file in the project directory:
 
+```shell
 OPENAI_API_KEY=your_openai_api_key
+```
 
 7. Run the split_and_store.py script to split the PDF text into chunks and store them:
 

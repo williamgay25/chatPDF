@@ -1,0 +1,4 @@
+PyPDF2
+langchain
+faiss-cpu
+python-dotenv
